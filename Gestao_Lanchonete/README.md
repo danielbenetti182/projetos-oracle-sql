@@ -4,7 +4,7 @@ Este projeto trabalha sobre um modelo de banco de dados **pré-modelado pelo pro
 simulando o sistema de pedidos de uma lanchonete (clientes, cardápio, categorias,
 formas de pagamento, garçons, pedidos e itens de pedido).
 
-O foco aqui não foi a modelagem, e sim a habilidade de **ler e interpretar uma
+Criamos as tabelas com base no que nos foi passado, adiquirimos a habilidade de **ler e interpretar uma
 arquitetura de dados já existente** e construir consultas SQL sobre ela, incluindo:
 
 - `JOINs` entre múltiplas tabelas (estilo ANSI antigo, com `WHERE`)
